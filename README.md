@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Rafaella Ballerini 
+## Oiii! Eu sou a Leandra Pitsch
  <div>
   <a href="https://github.com/lepitsch">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lepitsch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
